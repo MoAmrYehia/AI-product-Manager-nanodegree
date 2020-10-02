@@ -1,1 +1,1 @@
-# AI-product-Manager-nanodegree
+# AI Product Manager Nanodegree
