@@ -1,2 +1,2 @@
 # AI Product Manager Nanodegree
-In this repo
+In this repo, I will 
