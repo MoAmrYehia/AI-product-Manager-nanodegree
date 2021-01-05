@@ -24,7 +24,7 @@ One of the main goals at Udacity is to help students create a job-ready portfoli
 AI enables innovation by automating tasks that were previously repetitive, and time-consuming. Today, it seems like every business either depends fundamentally on the capabilities of AI, or seeks to rapidly upskill its workforce to compete in the new, AI world. Learn the foundations of AI and machine learning, starting with the unsupervised and supervised models that are used in industry today. Understand how to develop a clear, narrow business case for an AI application. Learn how and when to use AI in a product based on business metrics and data availability.
 
 
-| LESSON ONE: Introduction to AI and Machine Learning  | LESSON TWO: Using AI and ML in Business |
+| Introduction to AI and Machine Learning  | Using AI and ML in Business |
 | ------------- | ------------- |
 | *Learn the basics of AI and machine learning, and how businesses derive value from AI.*  | *Understand the meaning of key terminologies, such as learning, unsupervised learning, and neural networks.*  |
 | *Learn to narrow down a business use case and decide when to use AI in a product.* | *Learn strategies for measuring the success of a product.* |
@@ -33,7 +33,7 @@ AI enables innovation by automating tasks that were previously repetitive, and t
 ## Course 2: Create a Dataset
 Training data is the currency of AI—no model will perform successfully with poor quality input data. Learn how to develop a relevant, complete, unique and high-quality dataset. Learn how to use Figure Eight’s data annotation platform to develop a labeled dataset for supervised learning. Understand how to anticipate data failures and plan for longevity.
 
-| LESSON ONE: Data Fit & Annotation | LESSON TWO: Medical Image Annotation (Project) |
+| Data Fit & Annotation | Medical Image Annotation (Project) |
 | ------------- | ------------- |
 | *Learn to analyze the size of your data and how well data fits a particular product use case.*  | *Define a product goal for a medical diagnostic tool.*  |
 | *Learn how to use Figure Eight’s crowdsourced data annotation platform to generate a high-quality ground-truth dataset with human annotation.* | *Design an annotation job for a medical image dataset.* |
@@ -42,7 +42,7 @@ Training data is the currency of AI—no model will perform successfully with po
 ## Course 3: Build a Model
 AI products rely upon machine learning models at their core. Understand key fundamentals of AI models including how neural networks produce decisions and how “training” works. Understand how training data affect the performance of a model, and how to evaluate models’ results. Learn how transfer learning and neural architecture search make AI available to a wide variety of users.
 
-| LESSON ONE: Training and Evaluating a Model | LESSON TWO: Build a Model (Project) |
+| Training and Evaluating a Model | Build a Model (Project) |
 | ------------- | ------------- |
 | *Learn how a neural network learns from training data.*  | *Build and train a model using Google’s AutoML.*  |
 | *Use test data to evaluate a trained model according to metrics like accuracy, precision, and recall.* | *Evaluate several models and decide on the best model for a given product use case.* |
@@ -51,7 +51,7 @@ AI products rely upon machine learning models at their core. Understand key fund
 ## Course 4: Measuring Impact and Updating Models
 AI models are only as valuable as their impact on your business. Learn how to measure post-deployment impact, and how to make data-informed improvements with A/B testing and versioning. Ensure that your model continuously improves via active learning. Understand how to avoid major failures due to unwanted bias, and how to ensure data security and compliance in different geographies. When you finally have product- market fit, learn to plan for the future and scale your product.
 
-| LESSON ONE: Measuring Business Impact & Mitigating Bias | LESSON TWO: Video Annotation | LESSON THREE: Capstone Proposal (Project)|
+| Measuring Business Impact & Mitigating Bias | Video Annotation | Capstone Proposal (Project)|
 | ------------- | ------------- | ------------- |
 | *----*  | *----*  | *Develop a business proposal for an AI product.* |
 | *----* | *----* | *----*|
