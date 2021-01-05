@@ -51,8 +51,8 @@ AI products rely upon machine learning models at their core. Understand key fund
 ## Course 4: Measuring Impact and Updating Models
 AI models are only as valuable as their impact on your business. Learn how to measure post-deployment impact, and how to make data-informed improvements with A/B testing and versioning. Ensure that your model continuously improves via active learning. Understand how to avoid major failures due to unwanted bias, and how to ensure data security and compliance in different geographies. When you finally have product- market fit, learn to plan for the future and scale your product.
 
-| LESSON ONE: Data Fit & Annotation | LESSON TWO: Medical Image Annotation (Project) |
-| ------------- | ------------- |
-| *Learn to analyze the size of your data and how well data fits a particular product use case.*  | *Define a product goal for a medical diagnostic tool.*  |
-| *Learn how to use Figure Eight’s crowdsourced data annotation platform to generate a high-quality ground-truth dataset with human annotation.* | *Design an annotation job for a medical image dataset.* |
-| *Design annotation instructions for best-in-class results.* | *Consider metrics for success, how you might improve the annotation design, and design test questions for annotators.* |
+| LESSON ONE: Data Fit & Annotation | LESSON TWO: Medical Image Annotation (Project) | LESSON THREE:  |
+| ------------- | ------------- | ------------- |
+| *Learn to analyze the size of your data and how well data fits a particular product use case.*  | *Define a product goal for a medical diagnostic tool.*  | --- |
+| *Learn how to use Figure Eight’s crowdsourced data annotation platform to generate a high-quality ground-truth dataset with human annotation.* | *Design an annotation job for a medical image dataset.* | ----|
+| *Design annotation instructions for best-in-class results.* | *Consider metrics for success, how you might improve the annotation design, and design test questions for annotators.* | ----|
