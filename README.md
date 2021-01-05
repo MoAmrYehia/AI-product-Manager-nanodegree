@@ -24,9 +24,8 @@ One of the main goals at Udacity is to help students create a job-ready portfoli
 AI enables innovation by automating tasks that were previously repetitive, and time-consuming. Today, it seems like every business either depends fundamentally on the capabilities of AI, or seeks to rapidly upskill its workforce to compete in the new, AI world. Learn the foundations of AI and machine learning, starting with the unsupervised and supervised models that are used in industry today. Understand how to develop a clear, narrow business case for an AI application. Learn how and when to use AI in a product based on business metrics and data availability.
 
 
-| LESSON ONE  | LESSON TWO |
+| LESSON ONE: Introduction to AI and Machine Learning  | LESSON TWO: Using AI and ML in Business |
 | ------------- | ------------- |
-| Introduction to AI and Machine Learning  | Using AI and ML in Business  |
 | *Learn the basics of AI and machine learning, and how businesses derive value from AI.*  | *Understand the meaning of key terminologies, such as learning, unsupervised learning, and neural networks.*  |
 | *Learn to narrow down a business use case and decide when to use AI in a product.* | *Learn strategies for measuring the success of a product.* |
 | --- | *See how to build an AI product team that can manage data and test product efficacy, over time.* |
@@ -34,9 +33,11 @@ AI enables innovation by automating tasks that were previously repetitive, and t
 ## Course 2: Create a Dataset
 Training data is the currency of AI—no model will perform successfully with poor quality input data. Learn how to develop a relevant, complete, unique and high-quality dataset. Learn how to use Figure Eight’s data annotation platform to develop a labeled dataset for supervised learning. Understand how to anticipate data failures and plan for longevity.
 
-| LESSON ONE  | LESSON TWO |
+| LESSON ONE: Data Fit & Annotation | LESSON TWO: Project, Medical Image Annotation |
 | ------------- | ------------- |
-| Data Fit & Annotation  | Project: Medical Image Annotation  |
 | *Learn to analyze the size of your data and how well data fits a particular product use case.*  | *Define a product goal for a medical diagnostic tool.*  |
 | *Learn how to use Figure Eight’s crowdsourced data annotation platform to generate a high-quality ground-truth dataset with human annotation.* | *Design an annotation job for a medical image dataset.* |
 | *Design annotation instructions for best-in-class results.* | *Consider metrics for success, how you might improve the annotation design, and design test questions for annotators.* |
+
+## Course 3: Build a Model
+AI products rely upon machine learning models at their core. Understand key fundamentals of AI models including how neural networks produce decisions and how “training” works. Understand how training data affect the performance of a model, and how to evaluate models’ results. Learn how transfer learning and neural architecture search make AI available to a wide variety of users.
