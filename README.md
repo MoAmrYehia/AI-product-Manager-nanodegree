@@ -33,7 +33,7 @@ AI enables innovation by automating tasks that were previously repetitive, and t
 ## Course 2: Create a Dataset
 Training data is the currency of AI—no model will perform successfully with poor quality input data. Learn how to develop a relevant, complete, unique and high-quality dataset. Learn how to use Figure Eight’s data annotation platform to develop a labeled dataset for supervised learning. Understand how to anticipate data failures and plan for longevity.
 
-| LESSON ONE: Data Fit & Annotation | LESSON TWO: Project, Medical Image Annotation |
+| LESSON ONE: Data Fit & Annotation | LESSON TWO: Medical Image Annotation (Project) |
 | ------------- | ------------- |
 | *Learn to analyze the size of your data and how well data fits a particular product use case.*  | *Define a product goal for a medical diagnostic tool.*  |
 | *Learn how to use Figure Eight’s crowdsourced data annotation platform to generate a high-quality ground-truth dataset with human annotation.* | *Design an annotation job for a medical image dataset.* |
