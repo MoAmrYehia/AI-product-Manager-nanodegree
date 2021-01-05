@@ -28,3 +28,10 @@ Introduction to AI and Machine Learning | Using AI and ML in Business
 Learn the basics of AI and machine learning, and how businesses derive value from AI | Learn to narrow down a business use case and decide when to use AI in a product 
 Understand the meaning of key terminologies, such as learning, unsupervised learning, and neural networks | Learn strategies for measuring the success of a product
 ___ | See how to build an AI product team that can manage data and test product efficacy, over time
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
