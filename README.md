@@ -11,8 +11,7 @@ This ultimate goal of the AI Product Manager Nanodegree program is to help stude
 * Prototype, test, and iterate on an AI product.
 
 ## Projects
-One of our main goals at Udacity is to help you create a job-ready portfolio of completed projects. Building a project is one of the best ways to test the skills you’ve acquired and to demonstrate your newfound abilities to future employers or colleagues. Throughout this Nanodegree program, you’ll have the opportunity to
-prove your skills by building the following projects:
+One of the main goals at Udacity is to help students create a job-ready portfolio of completed projects. Building a project is one of the best ways to test the skills students’ve acquired and to demonstrate your newfound abilities to future employers or colleagues. Throughout this Nanodegree program, students’ll have the opportunity to prove their skills by building the following projects:
 
 * **Create a Medical Image Annotation Job**, Design a labeled dataset that distinguishes between x-ray images that indicate health or pneumonia in lungs; this can be used by ML engineers later on down the line to build a diagnostic product.
 
