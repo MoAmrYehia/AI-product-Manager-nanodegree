@@ -19,3 +19,8 @@ One of the main goals at Udacity is to help students create a job-ready portfoli
      
 * **Create an AI Product Business Proposal**, Put together all that you’ve learned to submit a final proposal for an AI product that considers users, design practices, and the type of machine learning model you might use in the product.
 
+## Course 1: Introduction to AI in Business
+
+AI enables innovation by automating tasks that were previously repetitive, and time-consuming. Today, it seems like every business either depends fundamentally on the capabilities of AI, or seeks to rapidly upskill its workforce to compete in the new, AI world. Learn the foundations of AI and machine learning, starting with the unsupervised and supervised models that are used in industry today. Understand how to develop a clear, narrow business case for an AI application. Learn how and when to use AI in a product based on business metrics and data availability.
+
+
