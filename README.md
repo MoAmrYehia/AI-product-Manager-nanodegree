@@ -41,3 +41,18 @@ Training data is the currency of AI—no model will perform successfully with po
 
 ## Course 3: Build a Model
 AI products rely upon machine learning models at their core. Understand key fundamentals of AI models including how neural networks produce decisions and how “training” works. Understand how training data affect the performance of a model, and how to evaluate models’ results. Learn how transfer learning and neural architecture search make AI available to a wide variety of users.
+
+| LESSON ONE: Training and Evaluating a Model | LESSON TWO: Build a Model (Project) |
+| ------------- | ------------- |
+| *Learn how a neural network learns from training data.*  | *Build and train a model using Google’s AutoML.*  |
+| *Use test data to evaluate a trained model according to metrics like accuracy, precision, and recall.* | *Evaluate several models and decide on the best model for a given product use case.* |
+| *Learn how to use pre-trained models to transfer learning from one resource to another.* | *----* |
+
+## Course 4: Measuring Impact and Updating Models
+AI models are only as valuable as their impact on your business. Learn how to measure post-deployment impact, and how to make data-informed improvements with A/B testing and versioning. Ensure that your model continuously improves via active learning. Understand how to avoid major failures due to unwanted bias, and how to ensure data security and compliance in different geographies. When you finally have product- market fit, learn to plan for the future and scale your product.
+
+| LESSON ONE: Data Fit & Annotation | LESSON TWO: Medical Image Annotation (Project) |
+| ------------- | ------------- |
+| *Learn to analyze the size of your data and how well data fits a particular product use case.*  | *Define a product goal for a medical diagnostic tool.*  |
+| *Learn how to use Figure Eight’s crowdsourced data annotation platform to generate a high-quality ground-truth dataset with human annotation.* | *Design an annotation job for a medical image dataset.* |
+| *Design annotation instructions for best-in-class results.* | *Consider metrics for success, how you might improve the annotation design, and design test questions for annotators.* |
