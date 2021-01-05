@@ -53,6 +53,7 @@ AI models are only as valuable as their impact on your business. Learn how to me
 
 | LESSON ONE: Measuring Business Impact & Mitigating Bias | LESSON TWO: Video Annotation | LESSON THREE: Capstone Proposal (Project)|
 | ------------- | ------------- | ------------- |
-| *Learn to analyze the size of your data and how well data fits a particular product use case.*  | *Define a product goal for a medical diagnostic tool.*  | *Develop a business proposal for an AI product.* |
-| *Learn how to use Figure Eight’s crowdsourced data annotation platform to generate a high-quality ground-truth dataset with human annotation.* | *Design an annotation job for a medical image dataset.* | ----|
-| *Design annotation instructions for best-in-class results.* | *Consider metrics for success, how you might improve the annotation design, and design test questions for annotators.* | ----|
+| *----*  | *----*  | *Develop a business proposal for an AI product.* |
+| *----* | *----* | *----*|
+| *----* | *----* | *----*|
+|*----* | *----* | *----* |
