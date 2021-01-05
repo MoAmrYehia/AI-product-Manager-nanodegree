@@ -26,9 +26,9 @@ AI enables innovation by automating tasks that were previously repetitive, and t
 
 | LESSON ONE  | LESSON TWO |
 | ------------- | ------------- |
-| **Introduction to AI and Machine Learning**  | **Using AI and ML in Business**  |
-| *Learn the basics of AI and machine learning, and how businesses derive value from AI  | Understand the meaning of key terminologies, such as learning, unsupervised learning, and neural networks*  |
-| *Learn to narrow down a business use case and decide when to use AI in a product | Learn strategies for measuring the success of a product* |
+| Introduction to AI and Machine Learning  | Using AI and ML in Business  |
+| *Learn the basics of AI and machine learning, and how businesses derive value from AI*  | *Understand the meaning of key terminologies, such as learning, unsupervised learning, and neural networks*  |
+| *Learn to narrow down a business use case and decide when to use AI in a product* | *Learn strategies for measuring the success of a product* |
 | --- | *See how to build an AI product team that can manage data and test product efficacy, over time* |
 
 
