@@ -32,7 +32,7 @@ AI enables innovation by automating tasks that were previously repetitive, and t
 | --- | *See how to build an AI product team that can manage data and test product efficacy, over time.* |
 
 ## Course 2: Create a Dataset
-Training data is the currency of AI—no model will perform successfully with poor quality input data. Learn how to develop a relevant, complete, unique and high-quality dataset. Learn how to use Figure Eight’s data annotation platform to develop a labeled.
+Training data is the currency of AI—no model will perform successfully with poor quality input data. Learn how to develop a relevant, complete, unique and high-quality dataset. Learn how to use Figure Eight’s data annotation platform to develop a labeled dataset for supervised learning. Understand how to anticipate data failures and plan for longevity.
 
 | LESSON ONE  | LESSON TWO |
 | ------------- | ------------- |
