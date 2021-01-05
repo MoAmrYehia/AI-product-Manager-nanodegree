@@ -31,4 +31,12 @@ AI enables innovation by automating tasks that were previously repetitive, and t
 | *Learn to narrow down a business use case and decide when to use AI in a product* | *Learn strategies for measuring the success of a product* |
 | --- | *See how to build an AI product team that can manage data and test product efficacy, over time* |
 
+## Course 2: Create a Dataset
+Training data is the currency of AI—no model will perform successfully with poor quality input data. Learn how to develop a relevant, complete, unique and high-quality dataset. Learn how to use Figure Eight’s data annotation platform to develop a labeled
 
+| LESSON ONE  | LESSON TWO |
+| ------------- | ------------- |
+| Data Fit & Annotation  | Project: Medical Image Annotation  |
+| *Learn to analyze the size of your data and how well data fits a particular product use case*  | *Define a product goal for a medical diagnostic tool*  |
+| *Learn how to use Figure Eight’s crowdsourced data annotation platform to generate a high-quality ground-truth dataset with human annotation* | *Design an annotation job for a medical image dataset* |
+| *Design annotation instructions for best-in-class results* | *Consider metrics for success, how you might improve the annotation design, and design test questions for annotators* |
