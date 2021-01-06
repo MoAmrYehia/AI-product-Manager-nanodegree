@@ -53,7 +53,7 @@ AI models are only as valuable as their impact on your business. Learn how to me
 
 | Measuring Business Impact & Mitigating Bias | Video Annotation | Capstone Proposal (Project)|
 | ------------- | ------------- | ------------- |
-| *----*  | *----*  | *Develop a business proposal for an AI product.* |
-| *----* | *----* | *----*|
-| *----* | *----* | *----*|
-|*----* | *----* | *----* |
+| *Learn how to measure the business outcomes of a launched product.*  | *See an end-to-end AI product development cycle.*  | *Develop a business proposal for an AI product.* |
+| *Discuss A/B testing and versioning.* | *Learn strategies for ideating solutions to problems, and improving a prototype, incrementally.* | *----*|
+| *Learn strategies for mitigating unwanted bias in a machine learning model and product.* | *Spend your time focused on prototyping a product, and learn strategies for continuously learning and updating a machine learning model.* | *----*|
+|*See how to scale a product, according to user audience and demand.* | *----* | *----* |
