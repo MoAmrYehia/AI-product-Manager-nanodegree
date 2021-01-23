@@ -1,5 +1,5 @@
 # AI Product Manager Nanodegree
-In this repo, I will cover all aspects and give a feedback for the AI Product Manager Nanodegree from Udacity.
+In this repo, I will cover all aspects and give a feedback for the AI Product Manager Nanodegree from [Udacity].
 
 ## Overview
 This ultimate goal of the AI Product Manager Nanodegree program is to help students learn the unique skills that define the success of a machine learning product. Students will learn how to identify business cases that can benefit from AI technologies, and implement best practices for designing datasets and product prototypes. A graduate of this program will be able to:
